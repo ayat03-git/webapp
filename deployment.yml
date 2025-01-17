@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: webapp
-          image: 'registry.gitlab.com/aya03/pitstop_webapp/webapp:f0cd3b67'
+          image: 'registry.gitlab.com/aya03/pitstop_webapp/webapp:3b7d6236'
           ports:
             - containerPort: 80
